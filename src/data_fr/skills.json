@@ -1,0 +1,62 @@
+{
+  "title": "QUAND",
+
+  "description": "Depuis sa création qui a commencé à la maison - ''à résidence'' plutôt que ''en résidence'' - en France, au Printemps 2020, cette pièce a désormais joué une quarantaine de fois, à l'international, en 3 langues différentes.",
+  "paragraphe": "",
+
+  "skillsHistory": [
+    {
+      "title": "2020",
+      "description": "C'est au beau milieu du premier épisode de confinement strict de 2020 que j'ai décidé de m'offrir ce joujou dont je révais depuis un moment sans jamais avoir eu l'occasion de l'approcher : ma première roue Cyr. Quand mieux que lors de cette période d'isolement contraint pour commencer quelque chose de nouveau ? J'ai donc vidé le salon et me suis lancé. J'ai cogné les murs une pare de fois fois, réparé, fait passer la roue sur mon pied pour la première fois, soigné, puis continué de jouer, d'essayer, de chercher à comprendre les logiques, inerties et trajectoires de ce gros agrés. Ça a duré comme ça un peu plus d'une année, avant que je ne me décide à sortir de ma cachette pour montrer ce que je développais, petit à petit."
+    },
+    {
+      "title": "2021",
+      "description": "La pièce, tout au long de sa phase d'écriture, a déjà rencontré le public une dizaine de fois - de façon hebdomadaire, tout au long de l'Été 2021 - en tant que ''travail en cours''. C'était l'Été mais il était contraint. Partout on parlait de ''pass'', de jauges, de codes barres et de tout un tas de trucs vilains. J'avais fini par me construire un petit plancher dans le jardin en pallettes de récup' parce que tous les lieux de pratiques restaient encore fermés, les activités physiques de groupe en intérieur interdites ou limitées et les perspectives de ré-ouverture toujours très incertaines. Les regroupements proscrits ou hyper-encadrés. Alors chaque jeudi soir - soir de marché nocturne au village -, j'ouvrais discrétement le portail du jardin et conviais les curieux (tous, sans sélection aucune) à venir assister, en tous petits groupes installés en des transats tout autour de mon espace de jeu, aux avancées de mon travail. Avec cantinade de produits locaux, et au chapeau. Ces rencontres ont fait pleinement partie du processus de création du spectacle et restent à ce jour, pour tous ceux qui en ont été, de très chouettes souvenirs."
+    },
+
+    {
+      "title": "2022",
+      "description": "La pièce 'Quelque Chose veut tomber' a fait sa première officielle sous le chapiteau bondé de ''l'Art d'en Faire'' à Aubenas en Ardèche, France, le 6 Novembre 2021. Elle a ensuite joué 25 fois en France dans l'année qui a suivi. "
+
+    },
+    {
+      "title":"2023",
+      "description": "'Quelque Chose veut tomber' est devenue 'Something wants to collapse' pour pouvoir être performée en anglais pour la première fois à l'occasion du festival Fuskafest à Ljubljana en Slovenia, en Février 2023. Incluant donc le poème énoncé en Live sur scène en anglais, pour la première fois. Un peu plus tard dans la même année, ''Quelque Chose veut tomber'' s'est transformée encore, en 'Algo quierre derrumbarse' – pour intégrer le poème en espagnol pour la première fois, à l'occasion du festival FesTales à Castellon en Espagne, en Juin 2023. Ces versions successives ont permis à cette rèverie de voyage en une bulle de savon de ''prendre la route'' pour de vrai, et s'offrir une tournée internationale ; portant cette pièce à jouer en Slovénie, en Slovaquie, en Espagne, au Danemark, à Taïwan, en plus de continuer d'être diffusée en France."
+    }
+  ],
+
+  "skillsProgress": [
+    {
+      "name": "PHOTOSHOP",
+      "percentage": 55
+    },
+    {
+      "name": "ILLUSTRATOR",
+      "percentage": 68
+    },
+    {
+      "name": "MARKETING",
+      "percentage": 80
+    },
+    {
+      "name": "CREATIVITY",
+      "percentage": 43
+    },
+    {
+      "name": "AFFINITY",
+      "percentage": 55
+    },
+    {
+      "name": "LANGUAGES",
+      "percentage": 68
+    },
+    {
+      "name": "EDUCATION",
+      "percentage": 80
+    },
+    {
+      "name": "DEVELOPING",
+      "percentage": 43
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "About",
+
+  "description": "we are an international creative duo comprised of two individuals who, despite our diverse backgrounds and talents, share a profound simplicity, humor, openness, and curiosity.",
+  
+  "paragraphe1":"My name is Yann Szuter, and I am a multifaceted artist – a dancer, choreographer, circus performer, and writer. My artistic exploration delves into the intricate relationship between the human body and gravity, a challenge that unites all living beings on this planet. Through my work, I seek to unravel the nuances of movement qualities influenced by gravity and various other elements.",
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:yann.szuter@hotmail.fr",
+        "text": "yann.szuter@hotmail.fr"
+      }
+    },
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:grachova.silvia@gmail.com",
+        "text": "grachova.silvia@gmail.com"
+      }
+    },
+  
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+33682612573",
+        "text": "(+33) 682 61 25 73 "
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Speaking on behalf of our creative partnership, I am joined by Silvia Grachová, a talented Slovak dancer, choreographer, and circus artist. Silvia's artistic vision is characterized by her unique movement technique and aesthetics, which she continuously refines through her meticulous attention to detail. Drawing from her expertise as a photographer and videographer, Silvia brings a distinct visual perspective to our collaborative endeavors."
+  ]
+}

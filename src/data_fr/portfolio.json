@@ -1,0 +1,87 @@
+{
+  "title": "Ou",
+
+  "description": "Ce qu'on fait, c'est du spectacle vivant. Très vivant. Le petit conte que l'on raconte - la dramaturgie de la pièce - est écrite et aboutie. ''Figée''. La forme qu'il prend - sa performance - ne l'est pas. Deux représentations même consécutives ne sauraient être identiques : elles s'adaptent à l'espace, au public auquel on s'adresse, à l'occasion, à l'esprit de l'événement, au prétexte à la rencontre et aux intentions et à l'humeur du jour et aux gens avec qui on collabore sur le projet.",
+  "paragraphe1":"Voici des exemples de ce que cela donne dans la vie réelle : à l'intérieur, à l'extérieur, sur scène, dans un espace public ouvert ou même à la maison, dans une configuration frontale ou à 360°.",
+  "portfolioItems": [
+
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "Balazuc, Septembre 2022",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "Tales, Juin 2023",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "Bratislava, Avril 2023",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 4
+      },
+      "description": {
+        "text": "Angers, Décembre 2022",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 5
+      },
+      "description": {
+        "text": "Ljubljana, Févier 2022",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 6
+      },
+      "description": {
+        "text": "Trenčín, Juillet 2023",
+        "caption": "Clique ici pour en voir plus"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 7
+      },
+      "description": {
+        "text": "Odense, Juin 2023",
+        "caption": "Clique ici pour en voir plus"
+      }
+    }
+    
+  ]
+}

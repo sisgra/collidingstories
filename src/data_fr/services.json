@@ -1,0 +1,57 @@
+{
+  "title": " ''Quelque Chose veut tomber''",
+  "poetrys": ["N'avez-vous jamais rêvé",
+  "Petit",
+  "D’embarquer dans une bulle de savon",
+  "Et voyager ainsi libre de tout pesant",
+  "Affranchi de toutes contraintes mécaniques de ce monde sans dessus-dessous",
+  "À l'endroit même à l'envers et contre tout", 
+  "Vivre comme l'air ",
+  "Délicat comme un souffle",
+  "Léger comme une caresse",
+  "Et plus si infinité",
+  "?"],
+  "description": "est un dialogue avec la gravité. Une alliance, placée entre la Terre et le Ciel, le dedans et le dehors, la concentration et l'expansion, l'introspection et les autres, l'enracinement et le voyage.",
+  "paragraphes": [
+    "Sur scène ''Quelque Chose veut tomber'' est un spectacle tous publics, d'une quarantaine de minutes. Invitation à la rêverie d'envol, convocation de l'audace de la douceur, il met en scène un danseur et une roue Cyr, véhicule d'un grand périple.",
+    "Dans sa version originale, la pièce inclut un poème, énoncé en Live sur scène (à voix haute, souvent sans amplification quelconque). Ce texte existe en français, en anglais ou en espagnol ; ce qui offre au spectacle des perspectives de diffusion internationales. Sans l'élément textuel, la performance est un alors format court et intensément physique de 30 minutes, dont la dramaturgie se tient tout de même – pour être par exemple performée en milieu scolaire auprès de plus jeunes publics. Dans une forme hyper condensée, ''Quelque Chose veut tomber'' peut aussi être réduit à un numéro d'une douzaine de minutes, pour rejoindre des programmations de soirée de type scène ouverte ou cabaret.", 
+    "D'abord née d'une boutade, façonnée dans le dur des restrictions du Printemps 2020 - ''Ok bon, on peut toujours danser avec une barre de fer ? Chiche. Le prochain spectacle de la compagnie Boom Bap sera un duo, d'un danseur et d'une barre de fer.'' - ce projet se veut aussi être une ôde à l'autodidaxie, pilier fort de la vision du collectif Boom Bap & Compagnie.",
+    "Dans le processus de cette création, il aura d'abord fallu se familiariser avec l'objet roue Cyr, pour éventuellement tenter d'en réinventer les usages traditionnels. Une année et demi dédiée à la découverte et l'appropriation d'une technique circassienne nouvelle aura précédé une période de recherches chorégraphiques inédites pour que la pièce ''Quelque Chose veut tomber'' voit le jour. ",
+    "Ici, l'agrès se voit détourné de sa vocation première de prouesse circassienne pour prendre Vie et devenir bulle de savon, engin d'envol à la fois physique et métaphorique." 
+  ],
+  "servicesLinks": [
+    {
+      "to": "https://www.youtube.com/watch?v=zVTpPYojgWI",
+      "text": "Teaser"
+    },
+    {
+      "to": "https://www.youtube.com/watch?v=bDYluDyLl24",
+      "text": "Documentaire"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "POUR EXISTER",
+      "servDesc": "cette proposition ne requiert qu'une surface plane et de niveau de 5 X 5 M minimum."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "LE PUBLIC",
+      "servDesc": "serait idéalement installé en cercle, tout autour de l'espace de jeu. Mais le spectacle peut aussi exister dans une configuration frontale plus traditionnelle. "
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "QUAND",
+      "servDesc": "La pièce est complètement autonome et peut exister de jour comme de nuit, en intérieur comme en extérieur ; bien que sa bande son plutôt douce et délicate en fasse une proposition particulièrement adaptée aux matinées ou aux fins d'après-midi."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "UN POINT D'ACCROCHE",
+      "servDesc": "à proximité de l'espace de jeu - un arbre, un lampadaire ou un poteau par exemple - serait apprécié dans la mesure ou la roue est a priori suspendue à l'oblique au début de la représentation."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "C'EST QUI ?",
+
+  "description": "Je suis un danseur, artiste circassien, chorégraphe et auteur autodidacte, fasciné par la relation du corps humain à la gravité et toutes les qualités de mouvement qui en découlent, entre autres choses.",
+
+  "paragraphe1": "Aussi loin que je me souvienne, tout ce que j'ai toujours aspiré à faire était de bouger. Explorer le mouvement sous toutes ses formes : dévaler à toute blinde sur mon vélo, pour sentir ce que la vitesse pouvait être , sauter dans l'eau depuis les falaises pour expérimenter la chute et éventuellement essayer d'en faire quelque chose, des pirouettes comme des challenges de la gravité. Quand on est gamins, on se fiche pas mal de nommer ce que l'on fait : on le fait, simplement. En grandissant, j'ai tâché de préserver cette approche joueuse, décomplexée et sans étiquette du mouvement. <br/> <br/> Je suis entré dans la Danse par les pirouettes du Break, dans la fin des années 90 : pour tourner sur ma tête, me déplacer comme un ninja, exécuter tous ces flips et autres mouvements dingues et faire croire que c'était facile. Puis, j'ai découvert assez tôt qu'il y avait bien plus au sein de cette culture Hip hop que ces quelques acrobaties, et j'ai alors embarqué pour une aventure qui allait durer une vingtaine d'années et m'amener à voyager pas mal, vers les États-Unis notamment. Et vers New York bien souvent, ou j'ai fini par intégrer le crew pionnier Mastermind Rockers, établi à Brooklyn en 1977.<br/><br/> Tout au long de cette aventure, je suis resté curieux du mouvement sous toutes ses formes. J'ai eu des oportunités d'expérimenter des formes et philosophies telles que la capoeira, la salsa, le butoh et les disciplines circassiennes ; et au travers de tous ces cercles de rencontrer des maîtres et créateurs passionés et extraordinaires. J'ai aussi passé beaucoup de temps auprès d'ostéopathes, de kinés, de chiropracteurs, posturologues et experts de pratiques somatiques. Toutes ces influences m'ont forgé, je crois, un regard global relativement affuté sur la biomécanique et le mouvement, au sens le plus large du terme.",
+
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:yann.szuter@hotmail.fr",
+        "text": "yann.szuter@hotmail.fr"
+      }
+    },
+    {
+      "title": "SUIVEZ-MOI",
+      "link": {
+        "to": "https://www.instagram.com/yann_szuter/",
+        "text": "INSTAGRAM"
+    }
+  },
+    {
+      "title": "TEL",
+      "link": {
+        "to": "tel:+33682612573",
+        "text": "(+33) 682 61 25 73 "
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Aujourd'hui, toujours guidé par cette insatiable curiosité, je me trouve sur une quête vers l'intégration de tous ces apprentissages, toutes ces influences techniques et esthétiques, en une forme organique et propre de mouvement, la mienne. "
+  ]
+}

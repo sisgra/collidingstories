@@ -1,0 +1,55 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "Yann Szuter"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Accueil"
+    },
+    {
+      "to": "services",
+      "text": "Quoi"
+    },
+    {
+      "to": "technicalrequirements",
+      "text": "Comment"
+    },
+    {
+      "to": "about",
+      "text": "Qui"
+    },
+    {
+      "to": "skillsFr",
+      "text": "Quand"
+    },
+    {
+      "to": "portfolio",
+      "text": "Ou"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://www.instagram.com/yann_szuter/",
+      "text": "IN."
+    },
+    {
+      "to": "https://www.youtube.com/@yannszuter",
+      "text": "YT."
+    },
+    {
+      "to": "/",
+      "text": "EN."
+    },
+    {
+      "to": "/collidingstories",
+      "text": "CS."
+    }
+  ]
+}

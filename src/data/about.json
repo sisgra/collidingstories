@@ -1,0 +1,35 @@
+{
+  "title": "ABOUT",
+
+  "description": "I am a self-taught dancer, circus artist, choreographer and author, fascinated by the human body relation to gravity and its subsequent movement qualities, among other things.",
+
+  "paragraphe1": "As far as I can remember, I always wanted to move: ride my bike like crazy just to feel what speed was like; jump into the water off these cliffs to experiment the falling and eventually do something out of it; backflips, pirouettes or whatever, to challenge gravity. As a kid, you don't care about naming what you do: you simply do it. Growing up, I have tried to maintain that playful and uninhibited approach. <br/> I started dancing with Breaking by the end of the 90's, as this kid pursuing sensations over form. Because I wanted to spin on my head, move like a ninja, do all of these tricks and act like it was easy. But I understood quite soon that there was much more of this whole Hip hop culture behind these few moves, and embarked right away on an adventure that was gonna last about 20 years and lead me to travel quite a lot; to the US especially. To the point that I ended up joining the pioneer Mastermind Rocking crew, established in 1977 in Brooklyn.<br/> <br/> Through this journey though, I always remained curious about movement, in the broadest sense of the term. I experienced forms and philosphies as salsa, capoeira, yoga, butoh, circus disciplines, and through all these cyphers was lucky enough to meet inspiringly passionated people. As well as to spend, along the way, a lot of time with ostheopaths, physiotherapists, chiropractors, posturologists, etc. All of these encounters forged me a particularly wide look on Movement, generally speaking.",
+
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:yann.szuter@hotmail.fr",
+        "text": "yann.szuter@hotmail.fr"
+      }
+    },
+    {
+      "title": "FIND ME",
+      "link": {
+        "to": "https://www.instagram.com/yann_szuter/",
+        "text": "INSTAGRAM"
+    }
+  },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+33682612573",
+        "text": "(+33) 682 61 25 73 "
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Today, as this still inhexaustibly curious kid adulting through movement, I am on a quest for ways to incorporate and blend what I learnt and digested from all these aesthetics and techniques, in an organic form of movement, free from any name or tag."
+  ]
+}

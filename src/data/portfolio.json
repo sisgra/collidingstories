@@ -1,0 +1,87 @@
+{
+  "title": "Where",
+
+  "description": "What we do is Live performing Arts. This tale we are telling - the dramaturgy of this piece - is written and achieved. The form it takes - its performance - is not. The showing can never be twice the same: it adapts to the space, to whom we are adressing, to the occasion, to the spirit and intention and mindset and physical state and mood of the day, the event, the people we are working with. ",
+  "paragraphe1":"'Here are examples of what it looks like in real Life; indoors, outdoors, on stage, in an open public space or even at home, in a frontal or a 360° configuration.",
+  "portfolioItems": [
+
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "Balazuc, September 2022",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "Tales, June 2023",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "Bratislava, April 2023",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one-half",
+      "action": {
+        "type": "item",
+        "number": 4
+      },
+      "description": {
+        "text": "Angers, December 2022",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 5
+      },
+      "description": {
+        "text": "Ljubljana, February 2022",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 6
+      },
+      "description": {
+        "text": "Trenčín, July 2023",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 7
+      },
+      "description": {
+        "text": "Odense, June 2023",
+        "caption": "Click for more"
+      }
+    }
+    
+  ]
+}

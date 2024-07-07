@@ -1,0 +1,35 @@
+{
+  "title": "With You",
+
+  "description": "Because the whole project 'COLLIDING STORIES' is about encounters, reactions, stories... We like to invite people to be part of it !",
+  
+  "paragraphe1":"Let's build together !",
+  
+  "aboutInfo": [
+    {
+      "title": "EMAIL",
+      "link": {
+        "to": "mailto:yann.szuter@hotmail.fr",
+        "text": "yann.szuter@hotmail.fr"
+      }
+    },
+    {
+      "title": "DOCUMENTARY",
+      "link": {
+        "to": "https://youtu.be/LmylDDFa2s0?si=rMLBx_g82iCckWi4",
+        "text": "DOCUMENTARY"
+    }
+  },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:+33682612573",
+        "text": "(+33) 682 61 25 73 "
+      }
+    }
+  ],
+
+  "paragraphes": [
+    "Often we come to the performance places a few days in advance, where we do workshops with the groups, who can later become part of the performance if the desire is there. Not just as spectators, but to stand on stage with us. While still respecting the story, the line or the dramaturgy of the work. We know that this task is a big challenge, full of obstacles, unexpected situations, but we gladly accept this challenge and we are going through it together with the other participants."
+  ]
+}

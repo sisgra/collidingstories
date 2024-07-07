@@ -1,0 +1,64 @@
+{
+  "title": "WHEN",
+
+  "description": "Our journey began with a chance meeting, blossoming into a creative partnership fueled by shared vision. From our initial rehearsals to the decision-making process, navigating through mistakes and triumphs, we've embarked on a journey of creation.",
+  "paragraphe": "Both of us are very curious, mainly self-taught and have always nourished a broad vision of our environment. We also always were particularly sensitive to global or societal matters, as well as to how artists comply with their duty to address them, and thus inclined to inject some meaning in our work.",
+
+  "skillsHistory": [
+    {
+      "title": "2021",
+      "description": "We first met through a platform created pretty early in these successive quarantine episodes, with the purpose to Invite artists to reflect about the act of creation in this very particular context of isolation."
+      
+    },
+    {
+      "title": "2022",
+      "description": "Weekly research sessions at Cirkus Fuskabo, Ljubjlana, Slovenia and Dance Theatre Bralen Bratislava, Slovakia."
+        
+    },
+
+    {
+      "title": "2023",
+      "description": "In April 2023, we embarked on our inaugural residency at La Citoyenne in Valence, France. This initial experience laid the groundwork for our collaborative endeavour, providing the springboard for our future endeavours. Building upon this foundation, we ventured forth with two subsequent residencies at Up Circus and Performing Arts in Brussels, Belgium. However these experiences proved transformative, offering new insights into our strengths, areas for growth, and the potential for deeper exploration. They reshaped our perspective, revealing new horizons to explore and fortifying our resolve to push boundaries and delve further into our creative process."
+
+    },
+    {
+      "title": "2024",
+      "description": "A multi-week residency followed by a public demonstration. Also, the project aims to engage local schools’s students, collaboration with educators and ending with performances a participated version of 'Colliding Stories.'"
+    }
+  ],
+
+  "skillsProgress": [
+    {
+      "name": "PHOTOSHOP",
+      "percentage": 55
+    },
+    {
+      "name": "ILLUSTRATOR",
+      "percentage": 68
+    },
+    {
+      "name": "MARKETING",
+      "percentage": 80
+    },
+    {
+      "name": "CREATIVITY",
+      "percentage": 43
+    },
+    {
+      "name": "AFFINITY",
+      "percentage": 55
+    },
+    {
+      "name": "LANGUAGES",
+      "percentage": 68
+    },
+    {
+      "name": "EDUCATION",
+      "percentage": 80
+    },
+    {
+      "name": "DEVELOPING",
+      "percentage": 43
+    }
+  ]
+}

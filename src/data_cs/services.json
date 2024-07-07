@@ -1,0 +1,46 @@
+{
+  "title": " 'Colliding stories'",
+  "description": "This work intends to draw a portray of an intersection. To tell the story of a story. With its own inertia. Timings. Promises. Conflicts. Understandings. Decisions. Consequences. Joy. Pudicity. Scars",
+  "paragraphes": [
+    "At the heart of this project lies the creation of a captivating dancing duet, skilfully intertwining circus apparatuses like the Cyr wheel and aerial hoop. Born from a collaboration between Slovak and French artist.",
+    "Have you ever encountered someone with whom you immediately clicked? Someone with whom interactions flowed effortlessly, genuine and seamless? Some attribute such bonds to past-life connections or karmic ties, while others see it as a convergence of parallel paths. However, the notion of parallel trajectories meeting presents a fascinating paradox.", 
+    "Both onstage and in life, individuals bring their unique experiences, temperaments, and skills. Even with synchronicity, divergent backgrounds manifest in distinct movements and narratives and different languages.",
+    "'Colliding Stories' explores the crossroads of human narratives and the transformative potential of collaboration. It urges contemplation on bridging differences and rallying towards common objectives.",
+    "Central to the project are the Cyr wheel and aerial hoop, serving as vital scenographic elements that captivate attention and lend support to the overarching narrative. Through these apparatuses, the project blurs the boundaries between dance and circus arts, presenting both new possibilities and challenges. Their using underscores the project's vision and the necessity of embracing them to realize its full potential." 
+  ],
+  "servicesLinks": [
+    {
+      "to": "https://youtu.be/LmylDDFa2s0?si=2gg-Tou2VJbXA5g-",
+      "text": "At work"
+    },
+    {
+      "to": "https://youtu.be/KI4pC1KbZSs?si=qcW9T5GcR8iU3GFc",
+      "text": "Documentary"
+    }
+  ],
+  "servicesBoxes": [
+    {
+      "imageAltText": "serv icon",
+      "servTitle": "TO EXIST",
+      "servDesc": "this proposition requires a 8 X 6 M flat surface."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "THE AUDIENCE",
+      "servDesc": " would usually be sitting all around in a 360 degrees configuration, but this show can also exist in a more traditional frontal form."
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "WHEN",
+      "servDesc": "It is completely autonomous and can be performed either during the day or at night time - although the smooth and delicate soundtrack makes it a nice morning or evening thing - and both inside or outside. "
+    },
+    {
+      "imageAltText": "serv icon",
+
+      "servTitle": "AN ATTACHMENT POINT",
+      "servDesc": " An attachment point on the ceiling for aerial hoop."
+    }
+  ]
+}

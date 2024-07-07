@@ -1,0 +1,52 @@
+{
+  "homeLink": {
+    "to": "/",
+    "text": "Yann Szuter"
+  },
+
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "What"
+    },
+    {
+      "to": "technicalrequirements",
+      "text": "How"
+    },
+    
+    {
+      "to": "about",
+      "text": "Who"
+    },
+    {
+      "to": "skills",
+      "text": "When"
+    },
+    {
+      "to": "portfolio",
+      "text": "Where"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+  "footLinks": [
+    {
+      "to": "https://www.instagram.com/yann_szuter/",
+      "text": "IN."
+    },
+    {
+      "to": "https://www.youtube.com/@yannszuter",
+      "text": "YT."
+    },
+    {
+      "to": "/",
+      "text": "SWTC."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Where",
+
+  "description": "As we are currently immersed in the creative process, which necessitates its own unique environment and timeline, we decided to show you some collections of images and descriptions of the residencies we've participated in thus far—spaces where we've been able to work, explore, and prepare for our expected premiere in September 2024. ",
+  "paragraphe1":"",
+  "portfolioItems": [
+
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 1
+      },
+      "description": {
+        "text": "Up Circus and Performing Arts, Belgium",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 2
+      },
+      "description": {
+        "text": "Cirqueon, Czech Republic",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 3
+      },
+      "description": {
+        "text": "Festival en Valbonnais",
+        "caption": "Click for more"
+      }
+    },
+    {
+      "gridSize": "p-one",
+      "action": {
+        "type": "item",
+        "number": 4
+      },
+      "description": {
+        "text": "Up Circus and Performing Arts, Belgium",
+        "caption": "Click for more"
+      }
+    }
+    
+   
+    
+  ]
+}
